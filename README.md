@@ -15,21 +15,21 @@ These are the best premium WordPress themes
 Vulnerable themes
 According to Wordfence, the following versions of the Epsilon Framework themes continue to be at risk:
 
-Shapely <=1.2.7
-NewsMag <=2.4.1
-Activello <=1.4.0
-Illdy <=2.1.4
-Allegiant <=1.2.2
-Newspaper X <=1.3.1
-Pixova Lite <=2.0.5
-Brilliance <=1.2.7
-MedZone Lite <=1.2.4
-Regina Lite <=2.0.4
-Transcend <=1.1.8
-Affluent <1.1.0
-Bonkers <=1.0.4
-Antreas <=1.0.2
-NatureMag Lite <=1.0.5
+1. Shapely <=1.2.7
+2. NewsMag <=2.4.1
+3. Activello <=1.4.0
+4. Illdy <=2.1.4
+5. Allegiant <=1.2.2
+6. Newspaper X <=1.3.1
+7. Pixova Lite <=2.0.5
+8. Brilliance <=1.2.7
+9. MedZone Lite <=1.2.4
+10. Regina Lite <=2.0.4
+11. Transcend <=1.1.8
+12. Affluent <1.1.0
+13. Bonkers <=1.0.4
+14. Antreas <=1.0.2
+15. NatureMag Lite <=1.0.5
 
 It appears that the majority of attacks are simply probing for further vulnerabilities, although a remote code execution exploit is possible that would allow an attacker to take over a compromised site.
 
